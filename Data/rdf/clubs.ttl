@@ -1,0 +1,967 @@
+@prefix so: <http://www.dei.unipd.it/database2/soccerOntology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+so:club10 a so:Club ;
+    so:competeIn so:leagueL1 ;
+    so:name "arminia-bielefeld"^^xsd:string .
+
+so:club1003 a so:Club ;
+    so:competeIn so:leagueGB1 ;
+    so:name "leicester-city"^^xsd:string .
+
+so:club1025 a so:Club ;
+    so:competeIn so:leagueIT1 ;
+    so:name "fc-bologna"^^xsd:string .
+
+so:club1038 a so:Club ;
+    so:competeIn so:leagueIT1 ;
+    so:name "sampdoria-genua"^^xsd:string .
+
+so:club1041 a so:Club ;
+    so:competeIn so:leagueFR1 ;
+    so:name "olympique-lyon"^^xsd:string .
+
+so:club10484 a so:Club ;
+    so:competeIn so:leagueTR1 ;
+    so:name "kasimpasa"^^xsd:string .
+
+so:club1049 a so:Club ;
+    so:competeIn so:leagueES1 ;
+    so:name "fc-valencia"^^xsd:string .
+
+so:club1050 a so:Club ;
+    so:competeIn so:leagueES1 ;
+    so:name "fc-villarreal"^^xsd:string .
+
+so:club1053 a so:Club ;
+    so:competeIn so:leagueDK1 ;
+    so:name "aalborg-bk"^^xsd:string .
+
+so:club10690 a so:Club ;
+    so:competeIn so:leagueUKR1 ;
+    so:name "zorya-lugansk"^^xsd:string .
+
+so:club1075 a so:Club ;
+    so:competeIn so:leaguePO1 ;
+    so:name "sc-braga"^^xsd:string .
+
+so:club1082 a so:Club ;
+    so:competeIn so:leagueFR1 ;
+    so:name "losc-lille"^^xsd:string .
+
+so:club1083 a so:Club ;
+    so:competeIn so:leagueRU1 ;
+    so:name "fk-rostov"^^xsd:string .
+
+so:club1090 a so:Club ;
+    so:competeIn so:leagueNL1 ;
+    so:name "az-alkmaar"^^xsd:string .
+
+so:club1091 a so:Club ;
+    so:competeIn so:leagueGR1 ;
+    so:name "paok-thessaloniki"^^xsd:string .
+
+so:club1096 a so:Club ;
+    so:competeIn so:leagueBE1 ;
+    so:name "royal-antwerpen-fc"^^xsd:string .
+
+so:club11 a so:Club ;
+    so:competeIn so:leagueGB1 ;
+    so:name "fc-arsenal"^^xsd:string .
+
+so:club1108 a so:Club ;
+    so:competeIn so:leagueES1 ;
+    so:name "deportivo-alaves"^^xsd:string .
+
+so:club11127 a so:Club ;
+    so:competeIn so:leagueRU1 ;
+    so:name "ural-ekaterinburg"^^xsd:string .
+
+so:club11282 a so:Club ;
+    so:competeIn so:leagueTR1 ;
+    so:name "alanyaspor"^^xsd:string .
+
+so:club1132 a so:Club ;
+    so:competeIn so:leagueGB1 ;
+    so:name "fc-burnley"^^xsd:string .
+
+so:club114 a so:Club ;
+    so:competeIn so:leagueTR1 ;
+    so:name "besiktas-istanbul"^^xsd:string .
+
+so:club1158 a so:Club ;
+    so:competeIn so:leagueFR1 ;
+    so:name "fc-lorient"^^xsd:string .
+
+so:club1160 a so:Club ;
+    so:competeIn so:leagueFR1 ;
+    so:name "nimes-olympique"^^xsd:string .
+
+so:club1184 a so:Club ;
+    so:competeIn so:leagueBE1 ;
+    so:name "krc-genk"^^xsd:string .
+
+so:club12 a so:Club ;
+    so:competeIn so:leagueIT1 ;
+    so:name "as-roma"^^xsd:string .
+
+so:club121 a so:Club ;
+    so:competeIn so:leagueRU1 ;
+    so:name "dinamo-moskau"^^xsd:string .
+
+so:club1237 a so:Club ;
+    so:competeIn so:leagueGB1 ;
+    so:name "brighton-amp-hove-albion"^^xsd:string .
+
+so:club124 a so:Club ;
+    so:competeIn so:leagueSC1 ;
+    so:name "glasgow-rangers"^^xsd:string .
+
+so:club1241 a so:Club ;
+    so:competeIn so:leagueSC1 ;
+    so:name "livingston-fc"^^xsd:string .
+
+so:club1245 a so:Club ;
+    so:competeIn so:leagueBE1 ;
+    so:name "kas-eupen"^^xsd:string .
+
+so:club126 a so:Club ;
+    so:competeIn so:leagueTR1 ;
+    so:name "caykur-rizespor"^^xsd:string .
+
+so:club1268 a so:Club ;
+    so:competeIn so:leagueNL1 ;
+    so:name "ado-den-haag"^^xsd:string .
+
+so:club1269 a so:Club ;
+    so:competeIn so:leagueNL1 ;
+    so:name "pec-zwolle"^^xsd:string .
+
+so:club1283 a so:Club ;
+    so:competeIn so:leagueNL1 ;
+    so:name "fc-emmen"^^xsd:string .
+
+so:club13 a so:Club ;
+    so:competeIn so:leagueES1 ;
+    so:name "atletico-madrid"^^xsd:string .
+
+so:club130 a so:Club ;
+    so:competeIn so:leagueIT1 ;
+    so:name "parma-calcio-1913"^^xsd:string .
+
+so:club1301 a so:Club ;
+    so:competeIn so:leaguePO1 ;
+    so:name "cs-maritimo"^^xsd:string .
+
+so:club1304 a so:Club ;
+    so:competeIn so:leagueNL1 ;
+    so:name "heracles-almelo"^^xsd:string .
+
+so:club131 a so:Club ;
+    so:competeIn so:leagueES1 ;
+    so:name "fc-barcelona"^^xsd:string .
+
+so:club1390 a so:Club ;
+    so:competeIn so:leagueIT1 ;
+    so:name "cagliari-calcio"^^xsd:string .
+
+so:club141 a so:Club ;
+    so:competeIn so:leagueTR1 ;
+    so:name "galatasaray-istanbul"^^xsd:string .
+
+so:club1420 a so:Club ;
+    so:competeIn so:leagueFR1 ;
+    so:name "sco-angers"^^xsd:string .
+
+so:club1421 a so:Club ;
+    so:competeIn so:leagueFR1 ;
+    so:name "stade-reims"^^xsd:string .
+
+so:club1426 a so:Club ;
+    so:competeIn so:leagueNL1 ;
+    so:name "vvv-venlo"^^xsd:string .
+
+so:club1467 a so:Club ;
+    so:competeIn so:leagueTR1 ;
+    so:name "goztepe"^^xsd:string .
+
+so:club148 a so:Club ;
+    so:competeIn so:leagueGB1 ;
+    so:name "tottenham-hotspur"^^xsd:string .
+
+so:club15 a so:Club ;
+    so:competeIn so:leagueL1 ;
+    so:name "bayer-04-leverkusen"^^xsd:string .
+
+so:club150 a so:Club ;
+    so:competeIn so:leagueES1 ;
+    so:name "real-betis-sevilla"^^xsd:string .
+
+so:club1519 a so:Club ;
+    so:competeIn so:leagueSC1 ;
+    so:name "dundee-united-fc"^^xsd:string .
+
+so:club1531 a so:Club ;
+    so:competeIn so:leagueES1 ;
+    so:name "fc-elche"^^xsd:string .
+
+so:club1533 a so:Club ;
+    so:competeIn so:leagueES1 ;
+    so:name "sd-eibar"^^xsd:string .
+
+so:club157 a so:Club ;
+    so:competeIn so:leagueBE1 ;
+    so:name "kaa-gent"^^xsd:string .
+
+so:club16 a so:Club ;
+    so:competeIn so:leagueL1 ;
+    so:name "borussia-dortmund"^^xsd:string .
+
+so:club162 a so:Club ;
+    so:competeIn so:leagueFR1 ;
+    so:name "as-monaco"^^xsd:string .
+
+so:club16239 a so:Club ;
+    so:competeIn so:leagueUKR1 ;
+    so:name "desna-chernigiv"^^xsd:string .
+
+so:club167 a so:Club ;
+    so:competeIn so:leagueL1 ;
+    so:name "fc-augsburg"^^xsd:string .
+
+so:club16704 a so:Club ;
+    so:competeIn so:leagueRU1 ;
+    so:name "fk-krasnodar"^^xsd:string .
+
+so:club16795 a so:Club ;
+    so:competeIn so:leagueES1 ;
+    so:name "fc-granada"^^xsd:string .
+
+so:club172 a so:Club ;
+    so:competeIn so:leagueBE1 ;
+    so:name "rsc-charleroi"^^xsd:string .
+
+so:club173 a so:Club ;
+    so:competeIn so:leagueDK1 ;
+    so:name "odense-boldklub"^^xsd:string .
+
+so:club18 a so:Club ;
+    so:competeIn so:leagueL1 ;
+    so:name "borussia-monchengladbach"^^xsd:string .
+
+so:club180 a so:Club ;
+    so:competeIn so:leagueGB1 ;
+    so:name "fc-southampton"^^xsd:string .
+
+so:club18105 a so:Club ;
+    so:competeIn so:leagueUKR1 ;
+    so:name "pfk-lviv"^^xsd:string .
+
+so:club18303 a so:Club ;
+    so:competeIn so:leagueUKR1 ;
+    so:name "fk-oleksandriya"^^xsd:string .
+
+so:club190 a so:Club ;
+    so:competeIn so:leagueDK1 ;
+    so:name "fc-kopenhagen"^^xsd:string .
+
+so:club19789 a so:Club ;
+    so:competeIn so:leagueTR1 ;
+    so:name "yeni-malatyaspor"^^xsd:string .
+
+so:club200 a so:Club ;
+    so:competeIn so:leagueNL1 ;
+    so:name "fc-utrecht"^^xsd:string .
+
+so:club202 a so:Club ;
+    so:competeIn so:leagueNL1 ;
+    so:name "fc-groningen"^^xsd:string .
+
+so:club206 a so:Club ;
+    so:competeIn so:leagueDK1 ;
+    so:name "brondby-if"^^xsd:string .
+
+so:club2282 a so:Club ;
+    so:competeIn so:leagueBE1 ;
+    so:name "fc-brugge"^^xsd:string .
+
+so:club2293 a so:Club ;
+    so:competeIn so:leagueTR1 ;
+    so:name "konyaspor"^^xsd:string .
+
+so:club232 a so:Club ;
+    so:competeIn so:leagueRU1 ;
+    so:name "spartak-moskau"^^xsd:string .
+
+so:club234 a so:Club ;
+    so:competeIn so:leagueNL1 ;
+    so:name "feyenoord-rotterdam"^^xsd:string .
+
+so:club235 a so:Club ;
+    so:competeIn so:leagueNL1 ;
+    so:name "rkc-waalwijk"^^xsd:string .
+
+so:club23611 a so:Club ;
+    so:competeIn so:leagueUKR1 ;
+    so:name "olimpik-donetsk"^^xsd:string .
+
+so:club2381 a so:Club ;
+    so:competeIn so:leagueTR1 ;
+    so:name "sivasspor"^^xsd:string .
+
+so:club23826 a so:Club ;
+    so:competeIn so:leagueL1 ;
+    so:name "rasenballsport-leipzig"^^xsd:string .
+
+so:club24 a so:Club ;
+    so:competeIn so:leagueL1 ;
+    so:name "eintracht-frankfurt"^^xsd:string .
+
+so:club2410 a so:Club ;
+    so:competeIn so:leagueRU1 ;
+    so:name "zska-moskau"^^xsd:string .
+
+so:club2414 a so:Club ;
+    so:competeIn so:leagueDK1 ;
+    so:name "ac-horsens"^^xsd:string .
+
+so:club2420 a so:Club ;
+    so:competeIn so:leaguePO1 ;
+    so:name "vitoria-guimaraes-sc"^^xsd:string .
+
+so:club2423 a so:Club ;
+    so:competeIn so:leaguePO1 ;
+    so:name "cd-santa-clara"^^xsd:string .
+
+so:club2424 a so:Club ;
+    so:competeIn so:leaguePO1 ;
+    so:name "gil-vicente-fc"^^xsd:string .
+
+so:club2425 a so:Club ;
+    so:competeIn so:leaguePO1 ;
+    so:name "rio-ave-fc"^^xsd:string .
+
+so:club244 a so:Club ;
+    so:competeIn so:leagueFR1 ;
+    so:name "olympique-marseille"^^xsd:string .
+
+so:club2441 a so:Club ;
+    so:competeIn so:leagueGR1 ;
+    so:name "aek-athen"^^xsd:string .
+
+so:club2457 a so:Club ;
+    so:competeIn so:leaguePO1 ;
+    so:name "belenenses-sad"^^xsd:string .
+
+so:club2503 a so:Club ;
+    so:competeIn so:leaguePO1 ;
+    so:name "boavista-porto-fc"^^xsd:string .
+
+so:club252 a so:Club ;
+    so:competeIn so:leagueIT1 ;
+    so:name "genoa-cfc"^^xsd:string .
+
+so:club2553 a so:Club ;
+    so:competeIn so:leagueSC1 ;
+    so:name "kilmarnock-fc"^^xsd:string .
+
+so:club2578 a so:Club ;
+    so:competeIn so:leagueSC1 ;
+    so:name "st-johnstone-fc"^^xsd:string .
+
+so:club265 a so:Club ;
+    so:competeIn so:leagueGR1 ;
+    so:name "panathinaikos-athen"^^xsd:string .
+
+so:club2671 a so:Club ;
+    so:competeIn so:leagueGR1 ;
+    so:name "pas-giannina"^^xsd:string .
+
+so:club2687 a so:Club ;
+    so:competeIn so:leagueES1 ;
+    so:name "fc-cadiz"^^xsd:string .
+
+so:club2698 a so:Club ;
+    so:competeIn so:leagueRU1 ;
+    so:name "rubin-kazan"^^xsd:string .
+
+so:club27 a so:Club ;
+    so:competeIn so:leagueL1 ;
+    so:name "fc-bayern-munchen"^^xsd:string .
+
+so:club2727 a so:Club ;
+    so:competeIn so:leagueBE1 ;
+    so:name "oud-heverlee-leuven"^^xsd:string .
+
+so:club273 a so:Club ;
+    so:competeIn so:leagueFR1 ;
+    so:name "fc-stade-rennes"^^xsd:string .
+
+so:club2740 a so:Club ;
+    so:competeIn so:leagueUKR1 ;
+    so:name "vorskla-poltava"^^xsd:string .
+
+so:club2759 a so:Club ;
+    so:competeIn so:leagueSC1 ;
+    so:name "ross-county-fc"^^xsd:string .
+
+so:club276 a so:Club ;
+    so:competeIn so:leagueIT1 ;
+    so:name "hellas-verona"^^xsd:string .
+
+so:club2778 a so:Club ;
+    so:competeIn so:leagueDK1 ;
+    so:name "fc-nordsjaelland"^^xsd:string .
+
+so:club28095 a so:Club ;
+    so:competeIn so:leagueRU1 ;
+    so:name "fk-ufa"^^xsd:string .
+
+so:club281 a so:Club ;
+    so:competeIn so:leagueGB1 ;
+    so:name "manchester-city"^^xsd:string .
+
+so:club2832 a so:Club ;
+    so:competeIn so:leagueTR1 ;
+    so:name "gaziantep-fk"^^xsd:string .
+
+so:club2861 a so:Club ;
+    so:competeIn so:leagueBE1 ;
+    so:name "kv-oostende"^^xsd:string .
+
+so:club28643 a so:Club ;
+    so:competeIn so:leagueBE1 ;
+    so:name "waasland-beveren"^^xsd:string .
+
+so:club29 a so:Club ;
+    so:competeIn so:leagueGB1 ;
+    so:name "fc-everton"^^xsd:string .
+
+so:club29228 a so:Club ;
+    so:competeIn so:leagueBE1 ;
+    so:name "royal-excel-mouscron"^^xsd:string .
+
+so:club294 a so:Club ;
+    so:competeIn so:leaguePO1 ;
+    so:name "benfica-lissabon"^^xsd:string .
+
+so:club2969 a so:Club ;
+    so:competeIn so:leagueFR1 ;
+    so:name "dijon-fco"^^xsd:string .
+
+so:club2995 a so:Club ;
+    so:competeIn so:leaguePO1 ;
+    so:name "fc-pacos-de-ferreira"^^xsd:string .
+
+so:club2999 a so:Club ;
+    so:competeIn so:leagueSC1 ;
+    so:name "hamilton-academical-fc"^^xsd:string .
+
+so:club3 a so:Club ;
+    so:competeIn so:leagueL1 ;
+    so:name "1-fc-koln"^^xsd:string .
+
+so:club3057 a so:Club ;
+    so:competeIn so:leagueBE1 ;
+    so:name "standard-luttich"^^xsd:string .
+
+so:club306 a so:Club ;
+    so:competeIn so:leagueNL1 ;
+    so:name "sc-heerenveen"^^xsd:string .
+
+so:club3060 a so:Club ;
+    so:competeIn so:leagueGR1 ;
+    so:name "atromitos-athen"^^xsd:string .
+
+so:club31 a so:Club ;
+    so:competeIn so:leagueGB1 ;
+    so:name "fc-liverpool"^^xsd:string .
+
+so:club317 a so:Club ;
+    so:competeIn so:leagueNL1 ;
+    so:name "fc-twente-enschede"^^xsd:string .
+
+so:club3205 a so:Club ;
+    so:competeIn so:leagueTR1 ;
+    so:name "kayserispor"^^xsd:string .
+
+so:club33 a so:Club ;
+    so:competeIn so:leagueL1 ;
+    so:name "fc-schalke-04"^^xsd:string .
+
+so:club331 a so:Club ;
+    so:competeIn so:leagueES1 ;
+    so:name "ca-osasuna"^^xsd:string .
+
+so:club3329 a so:Club ;
+    so:competeIn so:leaguePO1 ;
+    so:name "fc-famalicao"^^xsd:string .
+
+so:club336 a so:Club ;
+    so:competeIn so:leaguePO1 ;
+    so:name "sporting-lissabon"^^xsd:string .
+
+so:club3368 a so:Club ;
+    so:competeIn so:leagueES1 ;
+    so:name "ud-levante"^^xsd:string .
+
+so:club338 a so:Club ;
+    so:competeIn so:leagueUKR1 ;
+    so:name "dynamo-kiew"^^xsd:string .
+
+so:club347 a so:Club ;
+    so:competeIn so:leagueFR1 ;
+    so:name "fc-metz"^^xsd:string .
+
+so:club350 a so:Club ;
+    so:competeIn so:leagueGB1 ;
+    so:name "sheffield-united"^^xsd:string .
+
+so:club3508 a so:Club ;
+    so:competeIn so:leagueBE1 ;
+    so:name "sv-zulte-waregem"^^xsd:string .
+
+so:club3522 a so:Club ;
+    so:competeIn so:leagueIT1 ;
+    so:name "spezia-calcio"^^xsd:string .
+
+so:club354 a so:Club ;
+    so:competeIn so:leagueBE1 ;
+    so:name "kv-mechelen"^^xsd:string .
+
+so:club36 a so:Club ;
+    so:competeIn so:leagueTR1 ;
+    so:name "fenerbahce-istanbul"^^xsd:string .
+
+so:club3609 a so:Club ;
+    so:competeIn so:leagueRU1 ;
+    so:name "rotor-volgograd"^^xsd:string .
+
+so:club366 a so:Club ;
+    so:competeIn so:leagueES1 ;
+    so:name "real-valladolid"^^xsd:string .
+
+so:club368 a so:Club ;
+    so:competeIn so:leagueES1 ;
+    so:name "fc-sevilla"^^xsd:string .
+
+so:club369 a so:Club ;
+    so:competeIn so:leagueDK1 ;
+    so:name "lyngby-bk"^^xsd:string .
+
+so:club370 a so:Club ;
+    so:competeIn so:leagueSC1 ;
+    so:name "aberdeen-fc"^^xsd:string .
+
+so:club3709 a so:Club ;
+    so:competeIn so:leagueES1 ;
+    so:name "fc-getafe"^^xsd:string .
+
+so:club371 a so:Club ;
+    so:competeIn so:leagueSC1 ;
+    so:name "celtic-glasgow"^^xsd:string .
+
+so:club3719 a so:Club ;
+    so:competeIn so:leagueRU1 ;
+    so:name "fk-khimki"^^xsd:string .
+
+so:club3725 a so:Club ;
+    so:competeIn so:leagueRU1 ;
+    so:name "akhmat-grozny"^^xsd:string .
+
+so:club3729 a so:Club ;
+    so:competeIn so:leagueRU1 ;
+    so:name "arsenal-tula"^^xsd:string .
+
+so:club379 a so:Club ;
+    so:competeIn so:leagueGB1 ;
+    so:name "west-ham-united"^^xsd:string .
+
+so:club383 a so:Club ;
+    so:competeIn so:leagueNL1 ;
+    so:name "psv-eindhoven"^^xsd:string .
+
+so:club385 a so:Club ;
+    so:competeIn so:leagueNL1 ;
+    so:name "fortuna-sittard"^^xsd:string .
+
+so:club39 a so:Club ;
+    so:competeIn so:leagueL1 ;
+    so:name "1-fsv-mainz-05"^^xsd:string .
+
+so:club3911 a so:Club ;
+    so:competeIn so:leagueFR1 ;
+    so:name "stade-brest-29"^^xsd:string .
+
+so:club39722 a so:Club ;
+    so:competeIn so:leagueTR1 ;
+    so:name "buyuksehir-belediye-erzurumspor"^^xsd:string .
+
+so:club398 a so:Club ;
+    so:competeIn so:leagueIT1 ;
+    so:name "lazio-roma"^^xsd:string .
+
+so:club399 a so:Club ;
+    so:competeIn so:leagueGB1 ;
+    so:name "leeds-united"^^xsd:string .
+
+so:club3999 a so:Club ;
+    so:competeIn so:leagueGR1 ;
+    so:name "pas-lamia-1964"^^xsd:string .
+
+so:club40 a so:Club ;
+    so:competeIn so:leagueFR1 ;
+    so:name "fc-girondins-bordeaux"^^xsd:string .
+
+so:club403 a so:Club ;
+    so:competeIn so:leagueNL1 ;
+    so:name "willem-ii-tilburg"^^xsd:string .
+
+so:club405 a so:Club ;
+    so:competeIn so:leagueGB1 ;
+    so:name "aston-villa"^^xsd:string .
+
+so:club4083 a so:Club ;
+    so:competeIn so:leagueIT1 ;
+    so:name "fc-crotone"^^xsd:string .
+
+so:club410 a so:Club ;
+    so:competeIn so:leagueIT1 ;
+    so:name "udinese-calcio"^^xsd:string .
+
+so:club41201 a so:Club ;
+    so:competeIn so:leagueRU1 ;
+    so:name "pfk-tambov"^^xsd:string .
+
+so:club41231 a so:Club ;
+    so:competeIn so:leagueRU1 ;
+    so:name "fk-sochi"^^xsd:string .
+
+so:club41274 a so:Club ;
+    so:competeIn so:leagueBE1 ;
+    so:name "beerschot-v-a-"^^xsd:string .
+
+so:club416 a so:Club ;
+    so:competeIn so:leagueIT1 ;
+    so:name "fc-turin"^^xsd:string .
+
+so:club417 a so:Club ;
+    so:competeIn so:leagueFR1 ;
+    so:name "ogc-nizza"^^xsd:string .
+
+so:club4171 a so:Club ;
+    so:competeIn so:leagueIT1 ;
+    so:name "benevento-calcio"^^xsd:string .
+
+so:club418 a so:Club ;
+    so:competeIn so:leagueES1 ;
+    so:name "real-madrid"^^xsd:string .
+
+so:club4294 a so:Club ;
+    so:competeIn so:leaguePO1 ;
+    so:name "sc-farense"^^xsd:string .
+
+so:club430 a so:Club ;
+    so:competeIn so:leagueIT1 ;
+    so:name "ac-fiorentina"^^xsd:string .
+
+so:club44 a so:Club ;
+    so:competeIn so:leagueL1 ;
+    so:name "hertha-bsc"^^xsd:string .
+
+so:club441 a so:Club ;
+    so:competeIn so:leagueGR1 ;
+    so:name "apollon-smyrnis"^^xsd:string .
+
+so:club443 a so:Club ;
+    so:competeIn so:leagueDK1 ;
+    so:name "vejle-boldklub"^^xsd:string .
+
+so:club449 a so:Club ;
+    so:competeIn so:leagueTR1 ;
+    so:name "trabzonspor"^^xsd:string .
+
+so:club46 a so:Club ;
+    so:competeIn so:leagueIT1 ;
+    so:name "inter-milan"^^xsd:string .
+
+so:club4603 a so:Club ;
+    so:competeIn so:leagueGR1 ;
+    so:name "ae-larisa"^^xsd:string .
+
+so:club465 a so:Club ;
+    so:competeIn so:leagueSC1 ;
+    so:name "st-mirren-fc"^^xsd:string .
+
+so:club468 a so:Club ;
+    so:competeIn so:leagueNL1 ;
+    so:name "sparta-rotterdam"^^xsd:string .
+
+so:club475 a so:Club ;
+    so:competeIn so:leagueBE1 ;
+    so:name "vv-st-truiden"^^xsd:string .
+
+so:club48332 a so:Club ;
+    so:competeIn so:leagueUKR1 ;
+    so:name "kolos-kovalivka"^^xsd:string .
+
+so:club48726 a so:Club ;
+    so:competeIn so:leagueUKR1 ;
+    so:name "rukh-lviv"^^xsd:string .
+
+so:club49364 a so:Club ;
+    so:competeIn so:leagueUKR1 ;
+    so:name "ingulets-petrove"^^xsd:string .
+
+so:club499 a so:Club ;
+    so:competeIn so:leagueNL1 ;
+    so:name "vitesse-arnheim"^^xsd:string .
+
+so:club5 a so:Club ;
+    so:competeIn so:leagueIT1 ;
+    so:name "ac-milan"^^xsd:string .
+
+so:club506 a so:Club ;
+    so:competeIn so:leagueIT1 ;
+    so:name "juventus-turin"^^xsd:string .
+
+so:club520 a so:Club ;
+    so:competeIn so:leagueBE1 ;
+    so:name "cercle-brugge"^^xsd:string .
+
+so:club533 a so:Club ;
+    so:competeIn so:leagueL1 ;
+    so:name "tsg-1899-hoffenheim"^^xsd:string .
+
+so:club5358 a so:Club ;
+    so:competeIn so:leagueES1 ;
+    so:name "sd-huesca"^^xsd:string .
+
+so:club543 a so:Club ;
+    so:competeIn so:leagueGB1 ;
+    so:name "wolverhampton-wanderers"^^xsd:string .
+
+so:club5724 a so:Club ;
+    so:competeIn so:leagueDK1 ;
+    so:name "randers-fc"^^xsd:string .
+
+so:club58 a so:Club ;
+    so:competeIn so:leagueBE1 ;
+    so:name "rsc-anderlecht"^^xsd:string .
+
+so:club5817 a so:Club ;
+    so:competeIn so:leagueDK1 ;
+    so:name "sonderjyske"^^xsd:string .
+
+so:club583 a so:Club ;
+    so:competeIn so:leagueFR1 ;
+    so:name "fc-paris-saint-germain"^^xsd:string .
+
+so:club589 a so:Club ;
+    so:competeIn so:leagueTR1 ;
+    so:name "antalyaspor"^^xsd:string .
+
+so:club60 a so:Club ;
+    so:competeIn so:leagueL1 ;
+    so:name "sc-freiburg"^^xsd:string .
+
+so:club601 a so:Club ;
+    so:competeIn so:leagueBE1 ;
+    so:name "kv-kortrijk"^^xsd:string .
+
+so:club605 a so:Club ;
+    so:competeIn so:leagueGR1 ;
+    so:name "aris-thessaloniki"^^xsd:string .
+
+so:club60551 a so:Club ;
+    so:competeIn so:leagueUKR1 ;
+    so:name "sk-dnipro-1"^^xsd:string .
+
+so:club60949 a so:Club ;
+    so:competeIn so:leagueGR1 ;
+    so:name "volos-nps"^^xsd:string .
+
+so:club610 a so:Club ;
+    so:competeIn so:leagueNL1 ;
+    so:name "ajax-amsterdam"^^xsd:string .
+
+so:club618 a so:Club ;
+    so:competeIn so:leagueFR1 ;
+    so:name "as-saint-etienne"^^xsd:string .
+
+so:club61825 a so:Club ;
+    so:competeIn so:leagueUKR1 ;
+    so:name "fk-minaj"^^xsd:string .
+
+so:club6195 a so:Club ;
+    so:competeIn so:leagueIT1 ;
+    so:name "ssc-napoli"^^xsd:string .
+
+so:club621 a so:Club ;
+    so:competeIn so:leagueES1 ;
+    so:name "athletic-bilbao"^^xsd:string .
+
+so:club631 a so:Club ;
+    so:competeIn so:leagueGB1 ;
+    so:name "fc-chelsea"^^xsd:string .
+
+so:club6418 a so:Club ;
+    so:competeIn so:leagueGR1 ;
+    so:name "panetolikos-gfs"^^xsd:string .
+
+so:club653 a so:Club ;
+    so:competeIn so:leagueGR1 ;
+    so:name "ofi-kreta"^^xsd:string .
+
+so:club6574 a so:Club ;
+    so:competeIn so:leagueIT1 ;
+    so:name "us-sassuolo"^^xsd:string .
+
+so:club660 a so:Club ;
+    so:competeIn so:leagueUKR1 ;
+    so:name "shakhtar-donetsk"^^xsd:string .
+
+so:club6646 a so:Club ;
+    so:competeIn so:leagueTR1 ;
+    so:name "fatih-karagumruk"^^xsd:string .
+
+so:club667 a so:Club ;
+    so:competeIn so:leagueFR1 ;
+    so:name "rc-strassburg-alsace"^^xsd:string .
+
+so:club6676 a so:Club ;
+    so:competeIn so:leagueGR1 ;
+    so:name "asteras-tripolis"^^xsd:string .
+
+so:club678 a so:Club ;
+    so:competeIn so:leagueDK1 ;
+    so:name "aarhus-gf"^^xsd:string .
+
+so:club681 a so:Club ;
+    so:competeIn so:leagueES1 ;
+    so:name "real-sociedad-san-sebastian"^^xsd:string .
+
+so:club683 a so:Club ;
+    so:competeIn so:leagueGR1 ;
+    so:name "olympiakos-piraus"^^xsd:string .
+
+so:club6890 a so:Club ;
+    so:competeIn so:leagueTR1 ;
+    so:name "istanbul-basaksehir-fk"^^xsd:string .
+
+so:club6993 a so:Club ;
+    so:competeIn so:leagueUKR1 ;
+    so:name "fk-mariupol"^^xsd:string .
+
+so:club7179 a so:Club ;
+    so:competeIn so:leaguePO1 ;
+    so:name "cd-tondela"^^xsd:string .
+
+so:club720 a so:Club ;
+    so:competeIn so:leaguePO1 ;
+    so:name "fc-porto"^^xsd:string .
+
+so:club7378 a so:Club ;
+    so:competeIn so:leaguePO1 ;
+    so:name "portimonense-sc"^^xsd:string .
+
+so:club762 a so:Club ;
+    so:competeIn so:leagueGB1 ;
+    so:name "newcastle-united"^^xsd:string .
+
+so:club7775 a so:Club ;
+    so:competeIn so:leagueTR1 ;
+    so:name "hatayspor"^^xsd:string .
+
+so:club79 a so:Club ;
+    so:competeIn so:leagueL1 ;
+    so:name "vfb-stuttgart"^^xsd:string .
+
+so:club800 a so:Club ;
+    so:competeIn so:leagueIT1 ;
+    so:name "atalanta"^^xsd:string .
+
+so:club82 a so:Club ;
+    so:competeIn so:leagueL1 ;
+    so:name "vfl-wolfsburg"^^xsd:string .
+
+so:club820 a so:Club ;
+    so:competeIn so:leagueTR1 ;
+    so:name "genclerbirligi-ankara"^^xsd:string .
+
+so:club826 a so:Club ;
+    so:competeIn so:leagueFR1 ;
+    so:name "rc-lens"^^xsd:string .
+
+so:club833 a so:Club ;
+    so:competeIn so:leagueTR1 ;
+    so:name "denizlispor"^^xsd:string .
+
+so:club86 a so:Club ;
+    so:competeIn so:leagueL1 ;
+    so:name "sv-werder-bremen"^^xsd:string .
+
+so:club865 a so:Club ;
+    so:competeIn so:leagueDK1 ;
+    so:name "fc-midtjylland"^^xsd:string .
+
+so:club868 a so:Club ;
+    so:competeIn so:leagueTR1 ;
+    so:name "mke-ankaragucu"^^xsd:string .
+
+so:club873 a so:Club ;
+    so:competeIn so:leagueGB1 ;
+    so:name "crystal-palace"^^xsd:string .
+
+so:club89 a so:Club ;
+    so:competeIn so:leagueL1 ;
+    so:name "1-fc-union-berlin"^^xsd:string .
+
+so:club903 a so:Club ;
+    so:competeIn so:leagueSC1 ;
+    so:name "hibernian-fc"^^xsd:string .
+
+so:club931 a so:Club ;
+    so:competeIn so:leagueGB1 ;
+    so:name "fc-fulham"^^xsd:string .
+
+so:club932 a so:Club ;
+    so:competeIn so:leagueRU1 ;
+    so:name "lokomotiv-moskau"^^xsd:string .
+
+so:club940 a so:Club ;
+    so:competeIn so:leagueES1 ;
+    so:name "celta-vigo"^^xsd:string .
+
+so:club964 a so:Club ;
+    so:competeIn so:leagueRU1 ;
+    so:name "zenit-st-petersburg"^^xsd:string .
+
+so:club969 a so:Club ;
+    so:competeIn so:leagueFR1 ;
+    so:name "montpellier-hsc"^^xsd:string .
+
+so:club979 a so:Club ;
+    so:competeIn so:leaguePO1 ;
+    so:name "moreirense-fc"^^xsd:string .
+
+so:club982 a so:Club ;
+    so:competeIn so:leaguePO1 ;
+    so:name "cd-nacional"^^xsd:string .
+
+so:club984 a so:Club ;
+    so:competeIn so:leagueGB1 ;
+    so:name "west-bromwich-albion"^^xsd:string .
+
+so:club985 a so:Club ;
+    so:competeIn so:leagueGB1 ;
+    so:name "manchester-united"^^xsd:string .
+
+so:club987 a so:Club ;
+    so:competeIn so:leagueSC1 ;
+    so:name "motherwell-fc"^^xsd:string .
+
+so:club995 a so:Club ;
+    so:competeIn so:leagueFR1 ;
+    so:name "fc-nantes"^^xsd:string .
+

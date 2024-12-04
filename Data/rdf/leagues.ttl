@@ -1,0 +1,60 @@
+@prefix countries: <http://eulersharp.sourceforge.net/2003/03swap/countries#> .
+@prefix so: <http://www.dei.unipd.it/database2/soccerOntology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+so:leagueBE1 a so:League ;
+    so:name "jupiler-pro-league"^^xsd:string ;
+    so:nationality countries:be .
+
+so:leagueDK1 a so:League ;
+    so:name "superligaen"^^xsd:string ;
+    so:nationality countries:dk .
+
+so:leagueES1 a so:League ;
+    so:name "laliga"^^xsd:string ;
+    so:nationality countries:es .
+
+so:leagueFR1 a so:League ;
+    so:name "ligue-1"^^xsd:string ;
+    so:nationality countries:fr .
+
+so:leagueGB1 a so:League ;
+    so:name "premier-league"^^xsd:string ;
+    so:nationality countries:uk .
+
+so:leagueGR1 a so:League ;
+    so:name "super-league-1"^^xsd:string ;
+    so:nationality countries:gr .
+
+so:leagueIT1 a so:League ;
+    so:name "serie-a"^^xsd:string ;
+    so:nationality countries:it .
+
+so:leagueL1 a so:League ;
+    so:name "bundesliga"^^xsd:string ;
+    so:nationality countries:de .
+
+so:leagueNL1 a so:League ;
+    so:name "eredivisie"^^xsd:string ;
+    so:nationality countries:nl .
+
+so:leaguePO1 a so:League ;
+    so:name "liga-nos"^^xsd:string ;
+    so:nationality countries:pt .
+
+so:leagueRU1 a so:League ;
+    so:name "premier-liga"^^xsd:string ;
+    so:nationality countries:ru .
+
+so:leagueSC1 a so:League ;
+    so:name "scottish-premiership"^^xsd:string ;
+    so:nationality countries:uk .
+
+so:leagueTR1 a so:League ;
+    so:name "super-lig"^^xsd:string ;
+    so:nationality countries:turkey .
+
+so:leagueUKR1 a so:League ;
+    so:name "premier-liga"^^xsd:string ;
+    so:nationality countries:ua .
+
